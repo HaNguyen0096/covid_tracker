@@ -1,5 +1,5 @@
-## Live: 
-[https://covid-tracker-swart.now.sh/](https://covid-tracker-swart.now.sh/)
+
+Live: [https://covid-tracker-swart.now.sh/](https://covid-tracker-swart.now.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
